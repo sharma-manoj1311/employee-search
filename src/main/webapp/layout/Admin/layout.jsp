@@ -32,6 +32,10 @@
 <link rel="stylesheet" href="<c:url value="/resources/Admin/assets/css/datatables.min.css"/>">
 <link rel="stylesheet" href="<c:url value="/resources/Admin/assets/css/jquery-ui.min.css"/>">
 <link rel="stylesheet" href="<c:url value="/resources/Admin/assets/css/style.css"/>">
+
+
+
+
 <script src="<c:url value="/resources/Admin/assets/js/jquery.min.js"/>"></script>
 <script src="<c:url value="/resources/Admin/assets/js/jquery-ui.min.js"/>"></script>
 <script src="<c:url value="/resources/Admin/assets/js/datatables.min.js"/>"></script>
